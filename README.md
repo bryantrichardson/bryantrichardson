@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/bryant-richardson-pbr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootcamp. I am an eager learner trying to gain knowledge in the vast industry of cybersecurity through personal projects, books, and websites like TryHackMe. Currently studying for CompTIA Security+.
+I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootcamp. I am an eager learner trying to gain knowledge in the vast industry of cybersecurity through personal projects, books, and websites like TryHackMe. Currently studying for CompTIA Security+ certifications.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
