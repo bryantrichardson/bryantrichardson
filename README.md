@@ -1,9 +1,8 @@
 # Hello, I'm Bryant Richardson
 <a href="https://linkedin.com/in/bryant-richardson-pbr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootcamp. I am an eager learner trying to gain knowledge in the vast industry of cybersecurity through personal projects, books, and websites like TryHackMe. Currently studying for CompTIA Security+.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
