@@ -9,12 +9,12 @@ My current objective is to continue completing home projects/labs to further my 
 
 ## Projects
 Open Source Tools <br>
-Recent Attacks/Data Breaches
-OpenVAS 
-Splunk Project/Presentation
-Wireshark
-Nmap
-Another Splunk Project
+Recent Attacks/Data Breaches<br>
+OpenVAS<br>
+Splunk Project/Presentation<br>
+Wireshark<br>
+Nmap<br>
+Another Splunk Project<br>
 
 
 
