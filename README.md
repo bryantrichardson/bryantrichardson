@@ -8,7 +8,7 @@ I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootc
 My current objective is to continue completing home projects/labs to further my understanding of information technology and cybersecurity as a whole.
 
 ## Projects
-Open Source Tools
+Open Source Tools <br>
 Recent Attacks/Data Breaches
 OpenVAS 
 Splunk Project/Presentation
