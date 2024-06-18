@@ -5,10 +5,16 @@
 I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootcamp. I am an eager learner trying to gain knowledge in the vast industries of information technology and cybersecurity through personal projects, books, and websites like TryHackMe. Currently studying for CompTIA Security+ certification.
 
 ## Objective
-My current objective is to continue with my home labs/projects to showcase my passion and to continue to gain knowledge within information technology and cybersecurity.
+My current objective is to continue completing home projects/labs to further my understanding of information technology and cybersecurity as a whole.
 
 ## Projects
-Something
+Open Source Tools
+Recent Attacks/Data Breaches
+OpenVAS 
+Splunk Project/Presentation
+Wireshark
+Nmap
+Another Splunk Project
 
 
 
