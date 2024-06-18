@@ -8,13 +8,12 @@ I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootc
 My current objective is to continue with my home labs/projects to showcase my passion and to continue to gain knowledge within information technology and cybersecurity.
 
 ## Projects
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Something
 
 
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
