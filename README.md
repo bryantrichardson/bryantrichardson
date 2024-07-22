@@ -23,5 +23,5 @@ Another Splunk Project<br>
 <div>
 <a href="https://www.credly.com/earner/earned/badge/d56cceb9-5bcf-4137-afa6-7ea731bd6eb9"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-<a href="https://www.credly.com/badges/eda21a8c-55cb-47d0-87af-fa2dccd0c6c0"><img src="https://images.credly.com/size/680x680/images/79938e10-2a3d-420f-85b8-1ec555616ab0/CE_Cert_Badge_CYBER-01.png" width="100" length="200" />
+<a href="https://www.credly.com/badges/eda21a8c-55cb-47d0-87af-fa2dccd0c6c0"><img src="https://images.credly.com/size/680x680/images/79938e10-2a3d-420f-85b8-1ec555616ab0/CE_Cert_Badge_CYBER-01.png" width="150" length="200" />
 
