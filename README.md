@@ -7,7 +7,7 @@ I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootc
 ## Projects
 Open Source Tools <br>
 Recent Attacks/Data Breaches<br>
-Penetration Test Report<br>
+<a href="https://github.com/bryantrichardson/Penetration-Test-Report">Penetration Test Report</a><br>
 <a href="https://github.com/bryantrichardson/SplunkPresentation">Splunk Project/Presentation</a><br>
 Wireshark<br>
 Nmap<br>
