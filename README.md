@@ -6,7 +6,7 @@ I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootc
 
 ## Projects
 Active Directory Project<br>
-Honeypot VM on Azure with SIEM Analysis using Azure Sentinel Project <br>
+<a href="https://github.com/bryantrichardson/HoneypotVM/tree/main">Honeypot VM on Azure with SIEM Analysis using Azure Sentinel Project</a> <br>
 <a href="https://github.com/bryantrichardson/Penetration-Test-Report">Penetration Test Report</a><br>
 <a href="https://github.com/bryantrichardson/SplunkPresentation">Splunk Project/Presentation</a><br>
 Nessus Vulnerability Scanner Project<br>
