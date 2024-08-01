@@ -1,4 +1,4 @@
-# Hi! I am Bryant Richardson
+# Hello, I am Bryant Richardson
 <a href="https://linkedin.com/in/bryant-richardson-pbr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
