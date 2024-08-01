@@ -10,8 +10,8 @@ Honeypot VM on Azure with SIEM Analysis using Azure Sentinel Project <br>
 <a href="https://github.com/bryantrichardson/Penetration-Test-Report">Penetration Test Report</a><br>
 <a href="https://github.com/bryantrichardson/SplunkPresentation">Splunk Project/Presentation</a><br>
 Nessus Vulnerability Scanner Project<br>
-Wireshark<br>
-Nmap<br>
+Nmap and Wireshark Project
+
 
 
 ## Certifications
