@@ -12,7 +12,7 @@ I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootc
 Nmap and Wireshark Project<br>
 
 ## Certifications
-####### (**Click on either image to be redirected to my credly page to verify the certificate**)
+####### (Click on either image to be redirected to my credly page to verify the certificate)
 <div>
 <a href="https://www.credly.com/badges/d56cceb9-5bcf-4137-afa6-7ea731bd6eb9"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" width="150" length="300" />
 </div>
