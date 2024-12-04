@@ -2,14 +2,14 @@
 <a href="https://linkedin.com/in/bryant-richardson-pbr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" length="300" width="150"/></a>
 
 
-I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootcamp. I obtained my Security+ certificate from CompTIA in July 2024 as well. I am an eager learner trying to gain knowledge in the vast industries of information technology and cybersecurity through personal projects, books, and websites like TryHackMe. 
+I am a recent graduate of UNC Charlotte Professional Studies Cybersecurity Bootcamp. I obtained my Security+ certificate from CompTIA in July 2024 and I am currently studying for my CCNA (expected 01/2025) as well. I am an eager learner trying to gain knowledge in the vast industries of information technology and cybersecurity through personal projects, books, and websites like TryHackMe. 
 
 ## Projects
+<a href="LINK">Charlotte Hornets Active Directory Project</a><br>
 <a href="https://github.com/bryantrichardson/ActiveDirectoryProject/blob/main/README.md">Analyzing Phising Emails with Sublime Text and Open Source Sites</a> <br>
 <a href="https://github.com/bryantrichardson/HoneypotVM/tree/main">Honeypot VM on Azure with SIEM Analysis using Azure Sentinel Project</a> <br>
 <a href="https://github.com/bryantrichardson/Penetration-Test-Report">Penetration Test Report</a><br>
 <a href="https://github.com/bryantrichardson/SplunkPresentation">Splunk Project/Presentation</a><br>
-Nmap and Wireshark Project<br>
 
 ## Certifications
 <div>
