@@ -1,6 +1,6 @@
 # Hello, I am Paul "Bryant" Richardson
 <a href="https://linkedin.com/in/bryant-richardson-pbr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" length="300" width="150"/></a><br>
-Aspiring IT professional with CompTIA A+, CompTIA Security+, UNCC Cybersecurity Bootcamp Certificate, and hands-on Active Directory experience. Pursuing CCNA for deeper network knowledge. Eager to provide top-notch customer service and prompt ticket resolution as a Help Desk Specialist, contributing to high standards and continuous improvement.
+Aspiring IT professional with CompTIA A+, CompTIA Security+, UNCC School of Professional Studies Cybersecurity Certificate, and hands-on Active Directory experience. Pursuing CCNA for deeper network knowledge. Eager to provide top-notch customer service and prompt ticket resolution as a Help Desk Specialist, contributing to high standards and continuous improvement.
 
 ## Projects
 <a href="https://github.com/bryantrichardson/ActiveDirectory/blob/main/README.md">Charlotte Hornets Active Directory Project</a><br>
